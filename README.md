@@ -1,4 +1,5 @@
 ![fooo](https://user-images.githubusercontent.com/9766310/36504143-7796099e-178a-11e8-90df-5a1ed43a65b3.png)
+npm run serve
 ![2023-11-22_21-14-00](https://github.com/sabundhal/progressive-weather-app/assets/125143166/2a8f68fe-7e75-4376-81e6-44311114fce8)
 
 
